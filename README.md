@@ -5,7 +5,7 @@ I am student at Rutgers Universtiy - New Brunswick who is currently studying Com
 My repositories mainly consist of projects for classes.
 
 ## You can reach me at:
-• Discord: ozzyoct
+• Discord: ozzyoct </br>
 • Gmail: fra.pena3@gmail.com
 
 
