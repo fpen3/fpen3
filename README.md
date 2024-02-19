@@ -1,4 +1,4 @@
-# Welcome
+# Hi there 👋
 ### Welcome to my GitHub page.
 
 I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
