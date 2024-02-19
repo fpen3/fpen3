@@ -6,12 +6,12 @@ My repositories mainly consist of projects for my classes.
 
 # 
 ### 🔭 I’m currently working on:
-• Project2_213 </br>
-• Project1_214: My Little Malloc
+• **Project2_213** </br>
+• **Project1_214: My Little Malloc**
 
 ### 🌱 I’m currently learning: 
-• C </br>
-• Java FX
+• **C** </br>
+• **Java FX**
 #
 
 ### You can reach me at:
