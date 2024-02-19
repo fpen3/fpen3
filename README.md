@@ -5,18 +5,18 @@ I am a student at Rutgers University - New Brunswick who is currently studying C
 My repositories mainly consist of projects for my classes.
 
 # 
-### 🔭 I’m currently working on
-• Project2_213
+### 🔭 I’m currently working on:
+• Project2_213 </br>
 • Project1_214: My Little Malloc
 
-### 🌱 I’m currently learning 
-• C
+### 🌱 I’m currently learning: 
+• C </br>
 • Java FX
 #
 
 ### You can reach me at:
-• **Discord:** ozzyoct </br>
-• **Gmail:** fra.pena3@gmail.com
+• **Discord:** *ozzyoct* </br>
+• **Gmail:** *fra.pena3@gmail.com*
 
 <!--
 **fpen3/fpen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
