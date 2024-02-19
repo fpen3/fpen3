@@ -1,12 +1,12 @@
 # Welcome
 ### Welcome to my GitHub page.
 
-I am student at Rutgers Universtiy - New Brunswick who is currently studying Computer Science.
+I am a student at Rutgers University - New Brunswick who is currently studying Computer Science.
 My repositories mainly consist of projects for classes.
 
 ## You can reach me at:
-• Discord: ozzyoct </br>
-• Gmail: fra.pena3@gmail.com
+• **Discord:** ozzyoct </br>
+• **Gmail:** fra.pena3@gmail.com
 
 
 
