@@ -2,14 +2,19 @@
 ### Welcome to my GitHub page.
 
 I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
-My repositories mainly consist of projects for classes.
+My repositories mainly consist of projects for my classes.
 
 ### You can reach me at:
 • **Discord:** ozzyoct </br>
 • **Gmail:** fra.pena3@gmail.com
 
+### 🔭 I’m currently working on
+• Project2_213
+• Project1_214: My Little Malloc
 
-
+### 🌱 I’m currently learning 
+• C
+• Java FX
 
 <!--
 **fpen3/fpen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
