@@ -1,7 +1,7 @@
 # Welcome
 ### Welcome to my GitHub page.
 
-I am a student at Rutgers University - New Brunswick who is currently studying Computer Science.
+I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
 My repositories mainly consist of projects for classes.
 
 ## You can reach me at:
