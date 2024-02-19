@@ -4,7 +4,7 @@
 I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
 My repositories mainly consist of projects for classes.
 
-## You can reach me at:
+### You can reach me at:
 • **Discord:** ozzyoct </br>
 • **Gmail:** fra.pena3@gmail.com
 
