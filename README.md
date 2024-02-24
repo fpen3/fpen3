@@ -19,6 +19,7 @@ My repositories mainly consist of projects for my classes.
 • &nbsp&nbsp&nbsp <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp&nbsp&nbsp [Node js] </br>
 • &nbsp&nbsp&nbsp <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp&nbsp&nbsp [React js] </br>
 • &nbsp&nbsp&nbsp <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> &nbsp&nbsp&nbsp [Vue js] </br>
+</br>
 
 
 
