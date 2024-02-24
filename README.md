@@ -28,7 +28,7 @@ My repositories mainly consist of projects for my classes.
     <td align="center">
       <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
       <br>@ NJARNG
-    </td>
+    
     
     <!-- Second Box with the same Image and Text -->
     <td align="center">
