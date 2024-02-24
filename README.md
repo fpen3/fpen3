@@ -1,5 +1,5 @@
 # hi there 👋
-### `Welcome to my GitHub page.`
+## `Welcome to my GitHub page.`
 
 I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
 My repositories mainly consist of projects for my classes.
