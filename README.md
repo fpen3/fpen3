@@ -19,7 +19,7 @@ My repositories mainly consist of projects for my classes.
 </br>
 
 ### `You can reach me at:`
-• **Discord username:** ozzyoct </br>
+• **Discord:** ozzyoct </br>
 • **[LinkedIn profile](https://www.linkedin.com/in/frank-pena/)** </br>
 • **[Indeed profile](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend)**  </br>
 
