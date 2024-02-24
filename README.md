@@ -20,6 +20,7 @@ My repositories mainly consist of projects for my classes.
 
 ### `You can reach me at:`
 • **Discord:** ozzyoct </br>
+<img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="20" height="20" alt="mysql"></a> @ NJARNG
 
 <!--
 **fpen3/fpen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
