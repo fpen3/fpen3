@@ -24,14 +24,12 @@ My repositories mainly consist of projects for my classes.
 <div align="center">
 <table>
   <tr>
-    <!-- First Box with Image -->
+    <!-- Ensure the table cell aligns its content (the image) to the center -->
     <td align="center"><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql"></td>
-    
-    <!-- Second Box with Text or another Image -->
+  </tr>
+  <tr>
+    <!-- This ensures the text is also centered under the image -->
     <td align="center">@ NJARNG</td>
-    
-    <!-- Third Box, example with another Image or Text -->
-    <td align="center">[Your content here]</td>
   </tr>
 </table>
 </div>
