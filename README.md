@@ -32,7 +32,7 @@ My repositories mainly consist of projects for my classes.
       <a href="https://www.rutgers.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1160px-Rutgers_Scarlet_Knights_logo.svg.png" width="50" height="50" alt="mysql">
     </td>
     <td align="center">
-      <a href="https://www.goarmy.com/careers-and-jobs/career-match/ground-forces/explosives-artillery/13f-joint-fire-support-specialist.html"><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="50" height="50" alt="mysql">
+      <a href="https://www.goarmy.com/careers-and-jobs/career-match/ground-forces/explosives-artillery/13f-joint-fire-support-specialist.html"><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="60" height="60" alt="mysql">
     </td>
     <td align="center">
       <a href="https://www.brookdalecc.edu/"><img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/260/2023/10/Career-Center-Logo-WHITE-RED.png" width="70" height="70" alt="mysql">
