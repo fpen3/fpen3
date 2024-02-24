@@ -19,7 +19,7 @@ My repositories mainly consist of projects for my classes.
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="vuejs"></a>
 #
 ### `You can reach me at:`
-• &nbsp; <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ac3c481f273141736_icon_clyde_black_RGB.png" width="30" height="30" alt="vuejs"></a> &nbsp; **Discord:** *ozzyoct* </br>
+• &nbsp; <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ac3c481f273141736_icon_clyde_black_RGB.png" width="40" height="30" alt="vuejs"></a> &nbsp; **Discord:** *ozzyoct* </br>
 
 <!--
 **fpen3/fpen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
