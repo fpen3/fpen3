@@ -21,29 +21,16 @@ My repositories mainly consist of projects for my classes.
 ### `You can reach me at:`
 • **Discord:** ozzyoct </br>
 </br>
-<div align="center">
-<table>
-  <tr>
-    <!-- First Box with Image -->
-    <td align="center">
-      <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
-      <br>@ NJARNG
-    
-    
-    <!-- Second Box with the same Image and Text -->
-    <td align="center">
-      <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
-      <br>@ NJARNG
-    </td>
-    
-    <!-- Third Box with the same Image and Text -->
-    <td align="center">
-      <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
-      <br>@ NJARNG
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="Logo 1">
+  &#160;&#160;&#160;&#160;&#160; <!-- Non-breaking spaces for padding -->
+  <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="Logo 2">
+  &#160;&#160;&#160;&#160;&#160; <!-- Non-breaking spaces for padding -->
+  <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="Logo 3">
+</p>
+<p align="center">
+  @ NJARNG &#160;&#160;&#160;&#160;&#160; @ NJARNG &#160;&#160;&#160;&#160;&#160; @ NJARNG
+</p>
 
 
 
