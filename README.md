@@ -35,9 +35,9 @@ My repositories mainly consist of projects for my classes.
     </td>
   </tr>
   <tr>
-    <td align="center">Senior</td>
+    <td align="center"> &nbsp; Senior &nbsp;</td>
     <td align="center">@ NJARNG</td>
-    <td align="center">Alumni</td>
+    <td align="center"> &nbsp; Alumni &nbsp;</td>
   </tr>
 </table>
 </div>
