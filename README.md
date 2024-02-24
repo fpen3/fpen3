@@ -1,11 +1,11 @@
 # hi there 👋
-## `Welcome to my GitHub page.`
+### `Welcome to my GitHub page.`
 
 I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
 My repositories mainly consist of projects for my classes.
 </br>
 </br>
-## `Known Languages:` </br>
+### `Known Languages:` </br>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"></a>
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"></a>
