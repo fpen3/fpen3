@@ -20,8 +20,8 @@ My repositories mainly consist of projects for my classes.
 
 ### `You can reach me at:`
 • **Discord username:** ozzyoct </br>
-• **[LinkedIn Profile](https://www.linkedin.com/in/frank-pena/)** </br>
-• **[Indeed Profile](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend)**  </br>
+• **[LinkedIn profile](https://www.linkedin.com/in/frank-pena/)** </br>
+• **[Indeed profile](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend)**  </br>
 
 #
 </br>
