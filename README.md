@@ -25,19 +25,19 @@ My repositories mainly consist of projects for my classes.
 <table>
   <tr>
     <td align="center">
-      <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1160px-Rutgers_Scarlet_Knights_logo.svg.png" width="30" height="30" alt="mysql">
     </td>
     <td align="center">
       <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
     </td>
     <td align="center">
-      <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
+      <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/260/2023/10/Career-Center-Logo-WHITE-RED.png" width="30" height="30" alt="mysql">
     </td>
   </tr>
   <tr>
+    <td align="center">Senior</td>
     <td align="center">@ NJARNG</td>
-    <td align="center">@ NJARNG</td>
-    <td align="center">@ NJARNG</td>
+    <td align="center">Alumni</td>
   </tr>
 </table>
 </div>
