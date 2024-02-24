@@ -20,6 +20,8 @@ My repositories mainly consist of projects for my classes.
 
 ### `You can reach me at:`
 • **Discord:** ozzyoct </br>
+
+#
 </br>
 <div align="center">
 <table>
