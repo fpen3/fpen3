@@ -5,7 +5,7 @@ I am a student at Rutgers University - New Brunswick who is currently studying C
 My repositories mainly consist of projects for my classes.
 
 # 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
