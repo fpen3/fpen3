@@ -18,6 +18,11 @@ My repositories mainly consist of projects for my classes.
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="vuejs"></a>
 </br>
 
+### `Preferred IDEs:` </br>
+<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" alt="VScode"></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a>
+<a href="https://netbeans.apache.org/front/main/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="40" height="40" alt="NetBeans"></a>
+
 ### `You can reach me at:`
 • **Discord:** ozzyoct </br>
 • **[LinkedIn profile](https://www.linkedin.com/in/frank-pena/)** </br>
