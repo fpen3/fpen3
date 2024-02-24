@@ -24,15 +24,30 @@ My repositories mainly consist of projects for my classes.
 <div align="center">
 <table>
   <tr>
-    <!-- Ensure the table cell aligns its content (the image) to the center -->
-    <td align="center"><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql"></td>
+    <!-- First box with the image -->
+    <td align="center">
+      <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
+    </td>
+    
+    <!-- Second box with the same image -->
+    <td align="center">
+      <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
+    </td>
+    
+    <!-- Third box with the same image -->
+    <td align="center">
+      <img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql">
+    </td>
   </tr>
   <tr>
-    <!-- This ensures the text is also centered under the image -->
+    <!-- Text labels for each box -->
+    <td align="center">@ NJARNG</td>
+    <td align="center">@ NJARNG</td>
     <td align="center">@ NJARNG</td>
   </tr>
 </table>
 </div>
+
 
 
 
