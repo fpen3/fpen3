@@ -20,6 +20,8 @@ My repositories mainly consist of projects for my classes.
 
 ### `You can reach me at:`
 • **Discord:** ozzyoct </br>
+• **LinkedIn:** [LinkedIn]([URL ]https://www.linkedin.com/in/frank-pena/ "Optional Title") </br>
+• **Indeed:** [Link Text](URL "Optional Title")  </br>
 
 #
 </br>
