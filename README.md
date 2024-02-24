@@ -21,14 +21,17 @@ My repositories mainly consist of projects for my classes.
 ### `You can reach me at:`
 • **Discord:** ozzyoct </br>
 </br>
+<div align="center">
 <table>
   <tr>
-    <td align="center"><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="50" height="50" alt="mysql"></td>
+    <td><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql"></td>
   </tr>
   <tr>
-    <td align="center">@ NJARNG</td>
+    <td>@ NJARNG</td>
   </tr>
 </table>
+</div>
+
 
 
 <!--
