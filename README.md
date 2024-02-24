@@ -23,6 +23,7 @@ My repositories mainly consist of projects for my classes.
 &nbsp;
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a>
 </br>
+________________________
 ### `You can reach me at:`
 • **Discord:** ozzyoct </br>
 • **[LinkedIn profile](https://www.linkedin.com/in/frank-pena/)** </br>
