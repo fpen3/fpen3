@@ -17,6 +17,7 @@ My repositories mainly consist of projects for my classes.
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"></a>
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="vuejs"></a>
 #
+
 ### `You can reach me at:`
 • **Discord:** ozzyoct </br>
 
