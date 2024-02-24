@@ -20,7 +20,6 @@ My repositories mainly consist of projects for my classes.
 #
 ### `You can reach me at:`
 • **Discord:** *ozzyoct* </br>
-• **Gmail:** *fra.pena3@gmail.com*
 
 <!--
 **fpen3/fpen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
