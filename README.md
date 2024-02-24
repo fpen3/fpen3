@@ -25,7 +25,7 @@ My repositories mainly consist of projects for my classes.
 <table>
   <tr>
     <!-- Ensure the table cell aligns its content (the image) to the center -->
-    <td align="center"><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="30" height="30" alt="mysql"></td>
+    <td align="center"><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="50" height="50" alt="mysql"></td>
   </tr>
   <tr>
     <!-- This ensures the text is also centered under the image -->
