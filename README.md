@@ -5,8 +5,8 @@ I am a student at Rutgers University - New Brunswick who is currently studying C
 My repositories mainly consist of projects for my classes.</br>
 Currently, this semester I find myself exploring the complexities of C programming for my class Systems Programming
 and expanding upon my application development skills using Java OOP for my other class Software Methodology. </br>
-
 </br>
+
 ### `Known Languages:` </br>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"></a>
