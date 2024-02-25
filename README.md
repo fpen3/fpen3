@@ -3,6 +3,7 @@
 
 I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
 My repositories mainly consist of projects for my classes.</br>
+</br>
 Currently, this semester I find myself exploring the complexities of C programming for my class Systems Programming</br> 
 and expanding upon my application development skills using Java OOP for my other class Software Methodology. </br>
 
