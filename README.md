@@ -28,7 +28,6 @@ and expanding upon my application development skills using Java OOP for my other
 </br>
 ________________________
 ### `You can reach me at:`
-• **Discord:** ozzyoct </br>
 • **[LinkedIn profile](https://www.linkedin.com/in/frank-pena/)** </br>
 • **[Indeed profile](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend)**  </br>
 
