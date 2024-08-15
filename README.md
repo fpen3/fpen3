@@ -4,8 +4,8 @@
 I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
 My repositories mainly consist of projects for my classes.</br>
 </br>
-Currently, this semester I find myself exploring the complexities of C programming for my class Systems Programming</br> 
-and expanding upon my application development skills using Java OOP for my other class Software Methodology. </br>
+As of now, I am entering my Senior year. During these next two semesters I will be starting classes relevant towards</br> 
+my Artificial Intelligence / Cognitive Science focus.</br>
 
 ### `Known Languages:` </br>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a>
