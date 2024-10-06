@@ -43,7 +43,7 @@ ________________________
       <a href="https://www.goarmy.com/careers-and-jobs/career-match/ground-forces/explosives-artillery/13f-joint-fire-support-specialist.html"><img src="https://pandocommando.com/cdn/shop/collections/FIST_Patch_Color_1200x1200.png?v=1607529621" width="60" height="60" alt="mysql">
     </td>
     <td align="center">
-      <a href="https://www.brookdalecc.edu/"><img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/260/2023/10/Career-Center-Logo-WHITE-RED.png" width="70" height="70" alt="mysql">
+      <a href="https://www.brookdalecc.edu/"><img src="https://www.brookdalecc.edu/wp-content/uploads/2023/01/Mascot-1.png" width="70" height="70" alt="mysql">
     </td>
   </tr>
   <tr>
