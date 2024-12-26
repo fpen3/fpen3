@@ -4,7 +4,7 @@
 I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
 My repositories mainly consist of projects for my classes.</br>
 </br>
-As of now, I am entering my Senior year. During these next two semesters I will be starting classes relevant towards</br> 
+As of now, I am entering my Senior year and my last semester. During this final semester, I will be starting two more additional classes relevant towards</br> 
 my Artificial Intelligence / Cognitive Science focus.</br>
 
 ### `Known Languages:` </br>
