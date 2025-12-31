@@ -46,7 +46,7 @@ ________________________
     </td>
   </tr>
   <tr>
-    <td align="center"> &nbsp;&nbsp; Senior &nbsp;&nbsp;</td>
+    <td align="center"> &nbsp;&nbsp; Alumni &nbsp;&nbsp;</td>
     <td align="center">@ NJARNG</td>
     <td align="center"> &nbsp;&nbsp; Alumni &nbsp;&nbsp;</td>
   </tr>
