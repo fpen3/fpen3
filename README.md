@@ -4,7 +4,7 @@
 I am a Computer Science graduate from Rutgers University - New Brunswick. </br>
 My repositories mainly consist of projects I had for my classes.</br>
 </br>
-As of now, I am I am seeking employment opportunities in fields ideally related to Computer Science and Artificial Intelligence. </br>
+As of now, I am seeking employment opportunities in fields ideally related to Computer Science and Artificial Intelligence. </br>
 
 ### `Known Languages:` </br>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a>
