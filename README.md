@@ -1,11 +1,10 @@
 # Hi there, I'm Frank 👋
 ### `Welcome to my GitHub page`
 
-I am a student at Rutgers University - New Brunswick who is currently studying Computer Science. </br>
-My repositories mainly consist of projects for my classes.</br>
+I am a Computer Science graduate from Rutgers University - New Brunswick. </br>
+My repositories mainly consist of projects I had for my classes.</br>
 </br>
-As of now, I am entering my Senior year and my last semester. During this final semester, I will be starting two more additional classes </br> 
-relevant towards my Artificial Intelligence / Cognitive Science focus.</br>
+As of now, I am I am seeking employment opportunities in fields ideally related to Computer Science and Artificial Intelligence. </br>
 
 ### `Known Languages:` </br>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a>
